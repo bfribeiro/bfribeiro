@@ -1,2 +1,3 @@
-Working as Data Analyst at AmpiFire
+Working as Data Analyst at AmpiFire.
+
 Always learning...
